@@ -87,6 +87,7 @@ This was critical in the
 - Checked for clipping and distortion at higher levels
 
 # Hardware Measurements : 
+![WhatsApp Image 2026-01-17 at 12 19 50](https://github.com/user-attachments/assets/5b3086cb-d606-4c36-9f2c-54383cd7b83e)
 <img width="878" height="641" alt="image" src="https://github.com/user-attachments/assets/87326797-1d01-42d3-a358-3709bdea8f24" />
 <img width="879" height="688" alt="image" src="https://github.com/user-attachments/assets/c6f151f5-2efb-45b5-a7f6-a453fb3a5b69" />
 - Alice Band Pass Result
