@@ -1,4 +1,4 @@
-1. Project Overview
+## 1. Project Overview
 This project involves the design, simulation, and hardware prototyping of a 3-band active graphic equalizer. The system is designed to operate on a single 5V supply, providing independent control over Bass (100Hz), Mid (1kHz), and Treble (4kHz) frequencies while maintaining a unified 0dB (Unity Gain) peak response across all bands.
 
 <img width="1919" height="850" alt="image" src="https://github.com/user-attachments/assets/419de428-ff1b-40a5-8657-e9c3d650582c" />
