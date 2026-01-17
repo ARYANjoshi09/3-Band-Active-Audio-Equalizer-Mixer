@@ -87,6 +87,7 @@ This was critical in the
 - Checked for clipping and distortion at higher levels
 
 # Hardware Measurements : 
+<img width="878" height="641" alt="image" src="https://github.com/user-attachments/assets/87326797-1d01-42d3-a358-3709bdea8f24" />
 <img width="879" height="688" alt="image" src="https://github.com/user-attachments/assets/c6f151f5-2efb-45b5-a7f6-a453fb3a5b69" />
 - Alice Band Pass Result
   <img width="785" height="448" alt="image" src="https://github.com/user-attachments/assets/ac7574a0-043e-4c57-b931-295def5eba37" />
